@@ -3823,14 +3823,15 @@ a.btn-large.btn-collect:hover {
 	}
 
 	.player-side-tab .module-tab-item {
-		font-size: 14px;
+		font-size: 12px;
 		color: rgba(255, 255, 255, .5);
 		line-height: inherit;
 		display: block;
 		padding: 15px 10px 15px 20px;
-		margin: 5px 5px 0;
+		margin: 5px 0px 0;
 		background: #141416;
 		border-radius: 0 5px 5px 0;
+		padding-left: 8px;
 	}
 
 	.player-side-tab .module-tab-item:hover,
