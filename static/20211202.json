@@ -1,0 +1,22 @@
+{
+    "appname": "HUXTV",
+    "url": "https://www.sojson.com",
+    "setmen": {
+        "men1": "首页",
+        "men2": "电影",
+        "men3": "电视剧",
+        "men4": "综艺",
+        "men5": "动漫"
+    },
+    "seturl": {
+        "men1": "/",
+        "men2": "/v/1.html",
+        "men3": "/v/2.html",
+        "men4": "/v/3.html",
+        "men5": "/v/4.html"
+    },
+    "update": {
+        "state": 0,
+        "url": "https://www.sojson.com"
+    }
+}
