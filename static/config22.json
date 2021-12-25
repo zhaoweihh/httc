@@ -1,0 +1,22 @@
+{
+    "应用信息": {
+        "版本": "2.0.6",
+		"官网链接": "https://www.baidu.com"
+    },
+	"广告链接": {
+        "广告1链接": "https://www.baidu.com",
+		"广告1图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告2链接": "https://www.baidu.com",
+		"广告2图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告3链接": "https://www.baidu.com",
+		"广告3图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告4链接": "https://www.baidu.com",
+		"广告4图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告5链接": "https://www.baidu.com",
+		"广告5图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告6链接": "https://www.baidu.com",
+		"广告6图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png",
+		"广告7链接": "https://www.baidu.com",
+		"广告7图片": "https://cdn.jsdelivr.net/gh/zhaoweihh/httc/image/logo.png"
+    }
+}
